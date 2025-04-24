@@ -1,0 +1,11 @@
+# Ignoriere virtuelle Umgebung
+venv/
+
+# Sonstiges Typisches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.env
