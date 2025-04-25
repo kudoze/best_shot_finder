@@ -1,7 +1,12 @@
-temp/
-temp_uploaded/
+# Ignoriere virtuelle Umgebung
+venv/
+
+# Sonstiges Typisches
 __pycache__/
 *.pyc
-venv/
-test_images/
-yolov8n.pt
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.env
+_old
