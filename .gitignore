@@ -1,12 +1,7 @@
-# Ignoriere virtuelle Umgebung
-venv/
-
-# Sonstiges Typisches
+temp/
+temp_uploaded/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.swp
-.DS_Store
-.env
-_old
+venv/
+test_images/
+yolov8n.pt
