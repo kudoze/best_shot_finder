@@ -10,3 +10,5 @@ __pycache__/
 .DS_Store
 .env
 _old
+test_images/
+yolov8n.pt
